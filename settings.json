@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "RyuFushiguro",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "freegta6.aternos.me",
+    "port": 31360,
+    "version": "26.3",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,18 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "At This Point, Words Are Unnecesarry!",
+        "Thank You, Okkotsu. Now Im Full.",
+        "Lets Larp!",
+        "Hello My Name Is Jane Juliet",
+        "im the strongest. nah id win",
+        "Come, Rik- wait thats yutas line.",
+        "sometimes i break the fourth wall",
+        "if you play minecraft, you are a bum. wait im playing it too...",
+        "OMG I JUST BEAT STEREO MADNESS! OMG OMG OMG!",
+        "five nights at freddys, is this where you wanna be? i just dont get it!",
+        "Is it because i cant be her? made me awake and made me hurt, i cant fix you!",
+        "nah, teto better"
       ]
     },
     "chat-log": true,
